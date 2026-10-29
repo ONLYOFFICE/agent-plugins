@@ -1,0 +1,31 @@
+{
+  "name": "onlyoffice",
+  "owner": {
+    "name": "ONLYOFFICE",
+    "email": "integration@onlyoffice.com",
+    "url": "https://www.onlyoffice.com"
+  },
+  "description": "Official ONLYOFFICE plugins for AI agents",
+  "plugins": [
+    {
+      "name": "onlyoffice-devtools",
+      "displayName": "ONLYOFFICE Developer Tools",
+      "description": "Agent skills for building integrations with ONLYOFFICE developer SDKs and tools: embed ONLYOFFICE Apps with the Embed SDK, build portal plugins with the Plugins SDK, and build React screens with the ONLYOFFICE UI kit.",
+      "category": "development",
+      "author": {
+        "name": "Ascensio System SIA",
+        "email": "integration@onlyoffice.com",
+        "url": "https://www.onlyoffice.com"
+      },
+      "homepage": "https://api.onlyoffice.com/",
+      "repository": "https://github.com/ONLYOFFICE/agent-skills",
+      "license": "Apache-2.0",
+      "keywords": ["onlyoffice", "docspace", "sdk", "embed", "plugins", "react"],
+      "source": {
+        "source": "github",
+        "repo": "ONLYOFFICE/agent-skills",
+        "ref": "plugin"
+      }
+    }
+  ]
+}
