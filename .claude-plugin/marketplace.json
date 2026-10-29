@@ -22,8 +22,8 @@
       "license": "Apache-2.0",
       "keywords": ["onlyoffice", "docspace", "sdk", "embed", "plugins", "react"],
       "source": {
-        "source": "github",
-        "repo": "ONLYOFFICE/agent-skills",
+        "source": "url",
+        "url": "https://github.com/ONLYOFFICE/agent-skills.git",
         "ref": "plugin"
       }
     }
