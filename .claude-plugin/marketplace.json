@@ -20,7 +20,16 @@
       "homepage": "https://api.onlyoffice.com/",
       "repository": "https://github.com/ONLYOFFICE/agent-skills",
       "license": "Apache-2.0",
-      "keywords": ["onlyoffice", "docspace", "sdk", "embed", "plugins", "react"],
+      "keywords": [
+        "onlyoffice",
+        "docspace",
+        "sdk",
+        "embed",
+        "iframe",
+        "plugins",
+        "react",
+        "document-management"
+      ],
       "source": {
         "source": "url",
         "url": "https://github.com/ONLYOFFICE/agent-skills.git",

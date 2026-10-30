@@ -68,8 +68,8 @@ names:
 A plugin lives in its own repository and is fetched from that repository's `plugin` branch,
 which the repository's release workflow builds and holds only the files the plugin ships.
 
-To add a plugin, add an entry to both files: a `github` source in the Claude file and a `url`
-source in the Codex one, each pointing at the plugin's repository and its `plugin` branch. Check
+To add a plugin, add an entry to both files: a `url` source in each, pointing at the plugin's
+repository over HTTPS and its `plugin` branch. Check
 the Claude file with `claude plugin validate . --strict`.
 
 ## License
