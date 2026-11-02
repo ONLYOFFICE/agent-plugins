@@ -35,6 +35,31 @@
         "url": "https://github.com/ONLYOFFICE/agent-skills.git",
         "ref": "plugin"
       }
+    },
+    {
+      "name": "onlyoffice-apps",
+      "displayName": "ONLYOFFICE Apps",
+      "description": "Manage rooms, folders, files, and people in ONLYOFFICE Apps.",
+      "category": "productivity",
+      "author": {
+        "name": "Ascensio System SIA",
+        "email": "integration@onlyoffice.com",
+        "url": "https://onlyoffice.com/"
+      },
+      "homepage": "https://github.com/onlyoffice/docspace-mcp/",
+      "repository": "https://github.com/onlyoffice/docspace-mcp/",
+      "license": "MIT",
+      "keywords": [
+        "onlyoffice",
+        "docspace",
+        "onlyoffice-apps"
+      ],
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ONLYOFFICE/docspace-mcp.git",
+        "path": "plugin",
+        "ref": "main"
+      }
     }
   ]
 }
