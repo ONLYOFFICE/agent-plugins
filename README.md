@@ -16,6 +16,7 @@ the same names:
 | Plugin | What it gives the agent | Source |
 |---|---|---|
 | `onlyoffice-devtools` | Skills for building on the ONLYOFFICE developer SDKs: embed ONLYOFFICE Apps with the Embed SDK, build portal plugins with the Plugins SDK, build React screens with the ONLYOFFICE UI kit | [ONLYOFFICE/agent-skills](https://github.com/ONLYOFFICE/agent-skills) |
+| `onlyoffice-apps` | The hosted ONLYOFFICE Apps MCP server: manage rooms, folders, files and people on your portal | [ONLYOFFICE/docspace-mcp](https://github.com/ONLYOFFICE/docspace-mcp/tree/main/plugin) |
 
 Each plugin's README, linked under *Source*, describes what the plugin needs and how to use it in
 agents that read neither format.
