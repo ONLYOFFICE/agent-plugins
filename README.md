@@ -39,7 +39,7 @@ These agents can add this marketplace; their documentation shows how to add a ma
 install, update and remove its plugins:
 
 - [Claude Code](https://code.claude.com/docs/en/discover-plugins)
-- [Codex](https://developers.openai.com/codex/plugins) (to add a marketplace, see
+- [ChatGPT and Codex](https://developers.openai.com/codex/plugins) (to add a marketplace, see
   [`codex plugin marketplace add`](https://developers.openai.com/codex/plugins/build))
 - [GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/plugins-finding-installing)
 
